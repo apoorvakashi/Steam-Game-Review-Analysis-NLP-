@@ -45,13 +45,17 @@ https://colab.research.google.com/drive/1UN3kvIb1svNQ5zVBrtthPLbalCeNWuh6#scroll
 
 #### 1.  Word Embedding ####
 
-https://colab.research.google.com/drive/1UN3kvIb1svNQ5zVBrtthPLbalCeNWuh6#scrollTo=lwz2jPNU1U22
+Here is the direct colab notebook link:
+
+https://colab.research.google.com/drive/1UN3kvIb1svNQ5zVBrtthPLbalCeNWuh6#scrollTo=R6dza2lN1z86
 
 Train accuracy: 83.85%
 
 Validation accuracy: 84.23%
 
 #### 2. Vectorization (CountVect and TDIDF) ####
+
+Here is the direct colab notebook link:
 
 https://colab.research.google.com/drive/1fZjeGvoKJ7PN3iKY-aHebx2Wq4K5Lxak#scrollTo=IFamrNcwkLz2
 
@@ -95,7 +99,7 @@ Word Embedding performs the best!
 You can download the .ipynb files on your system using Download or Clone button and view them in the following order
 
 1. Data_Visualization.ipynb
-2. Steam_Game_Review_Analysis_Word_Embedding_in_Keras_.ipynb has Data-preprocessing as well as code for WordEmbedding
+2. Steam_Game_Review_Analysis_Word_Embedding_in_Keras_ (1).ipynb has Data-preprocessing as well as code for WordEmbedding
 3. SteamGame_Review_Analysis_Vectorization.ipynb has code for both Count Vectorization and Tfidf Vectorization
 
 Thank you!
