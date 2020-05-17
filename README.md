@@ -88,3 +88,14 @@ Word Embedding | 83.85% | 84.23%
 3. Training the model by vectorizing the texts using CountVectorizer() performs better than using TfidfVectorizer().
 
 Word Embedding performs the best!
+
+
+### Instructions to go through the notebooks
+
+You can download the .ipynb files on your system using Download or Clone button and view them in the following order
+
+1. Data_Visualization.ipynb
+2. Steam_Game_Review_Analysis_Word_Embedding_in_Keras_.ipynb has Data-preprocessing as well as code for WordEmbedding
+3. SteamGame_Review_Analysis_Vectorization.ipynb has code for both Count Vectorization and Tfidf Vectorization
+
+Thank you!
