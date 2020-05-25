@@ -49,9 +49,10 @@ Here is the direct colab notebook link:
 
 https://colab.research.google.com/drive/1UN3kvIb1svNQ5zVBrtthPLbalCeNWuh6#scrollTo=R6dza2lN1z86
 
-Train accuracy: 83.85%
+Train accuracy | Validation accuracy
+------------- | -------------
+83.85% | 84.23%
 
-Validation accuracy: 84.23%
 
 #### 2. Vectorization (CountVect and TDIDF) ####
 
